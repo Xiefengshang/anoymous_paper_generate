@@ -1,0 +1,4 @@
+pdf_file: 'final.pdf' #pdf原始文件名字
+search_texts: ['XX大学','你的名字','学院名','专业名','学号','班级','老师名字'] #需要替换的文字
+image_file: './black.png' #用于替换文字的纯黑png图片位置
+output_file: 'output.pdf' #输出pdf文件名字
