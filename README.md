@@ -1,0 +1,2 @@
+# anoymous_paper_generate
+一个用于生成匿名版论文的代码
